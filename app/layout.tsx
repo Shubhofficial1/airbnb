@@ -7,7 +7,7 @@ const font = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Airbnb",
-  description: "Web App similiar to Airbnb creted for learning purpose.",
+  description: "Web App similiar to Airbnb creted for learning purpose",
 };
 
 export default function RootLayout({
